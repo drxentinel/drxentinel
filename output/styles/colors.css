@@ -1,10 +1,10 @@
 :root {
   /* COLOR */
-  --accent-cool-accent-cool: rgb(0, 189, 227);
+  --accent-cool-accent-cool: rgb(181, 9, 9);
   --accent-cool-accent-cool-dark: rgb(40, 160, 203);
   --accent-cool-accent-cool-darker: rgb(7, 100, 141);
   --accent-cool-accent-cool-light: rgb(151, 212, 234);
-  --accent-cool-accent-cool-lighter: rgb(225, 243, 248);
+  --accent-cool-accent-cool-lighter: rgb(181, 9, 9);
   --accent-warm-accent-warm: rgb(250, 148, 65);
   --accent-warm-accent-warm-dark: rgb(192, 86, 0);
   --accent-warm-accent-warm-darker: rgb(119, 85, 64);
@@ -44,12 +44,12 @@
   --info-info-darker: rgb(42, 100, 109);
   --info-info-light: rgb(153, 222, 234);
   --info-info-lighter: rgb(231, 246, 248);
-  --primary-primary: rgb(250, 148, 65);
+  --primary-primary: rgb(0, 94, 162);
   --primary-primary-dark: rgb(26, 68, 128);
   --primary-primary-darker: rgb(22, 46, 81);
-  --primary-primary-light: rgb(255, 188, 120);
-  --primary-primary-lighter: rgb(225, 243, 248);
-  --primary-primary-vivid: rgb(153, 222, 234);
+  --primary-primary-light: rgb(115, 179, 231);
+  --primary-primary-lighter: rgb(217, 232, 246);
+  --primary-primary-vivid: rgb(0, 80, 216);
   --secondary-secondary: rgb(216, 57, 51);
   --secondary-secondary-dark: rgb(181, 9, 9);
   --secondary-secondary-darker: rgb(139, 10, 3);
@@ -59,7 +59,7 @@
   --success-success: rgb(0, 169, 28);
   --success-success-dark: rgb(77, 128, 85);
   --success-success-darker: rgb(68, 100, 67);
-  --success-success-light: rgb(243, 146, 104);
+  --success-success-light: rgb(112, 225, 123);
   --success-success-lighter: rgb(236, 243, 236);
   --warning-warning: rgb(255, 190, 46);
   --warning-warning-dark: rgb(229, 160, 0);
